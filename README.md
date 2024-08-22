@@ -16,7 +16,7 @@ This project implements an AI Agent assistant using GPTScript, capable of chaini
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-storybook-generator.git
+   git clone https://github.com/ChiragShelar/storyteller.git
    cd ai-storybook-generator
     ```
 2. Install dependencies:
